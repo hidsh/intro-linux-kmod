@@ -47,6 +47,7 @@ dmesg
 ## jprobe
 
 デバッグ用のjprobeのサンプル。
+
 `jprobe.ko`を`insmod`して`hello.ko`の挙動を確認する。
 
 ### ビルドと実行
@@ -64,6 +65,7 @@ dmesg
 ## hello_sysfs
 
 カーネルモジュールから`sysfs`を使うサンプル。
+
 `/sys/module/<module name>/`配下の読み書きを確認する。
 
 ### ビルドと実行
