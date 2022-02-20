@@ -83,6 +83,6 @@ sudo rmmod hello_sysfs
 
 ## テスト環境
 
-- Welcome to Ubuntu 16.04.7 LTS (GNU/Linux 4.4.0-210-generic x86_64)
+- Distro: Ubuntu 16.04.7 LTS (GNU/Linux 4.4.0-210-generic x86_64)
 - VMware Fusion: Player Version 12.2.1 (18811640)
 - MacOS: 11.6.2 (Big Sur)
